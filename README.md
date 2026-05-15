@@ -31,3 +31,4 @@ The project follows a standard data science pipeline:
 2. Install the necessary dependencies using terminal/command prompt:
    ```bash
    pip install -r requirements.txt
+3. Open Divyank_final-2.ipynb in Jupyter Notebook or Google Colab to view the analysis.
